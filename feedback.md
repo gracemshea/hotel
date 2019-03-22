@@ -1,6 +1,11 @@
 # Hotel
 ## What We're Looking For
 
+<!--
+  Comprehension Question Answers:
+  Use your best judgment for all of them, check for reasonable answers on nominal/edge case question.
+-->
+
 Feature | Feedback
 ---     | ---
 **Baseline** |
